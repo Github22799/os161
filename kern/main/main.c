@@ -99,6 +99,7 @@ boot(void)
 
 	kprintf("\n");
 	kprintf("OS/161 base system version %s\n", BASE_VERSION);
+    kprintf("osama199915@gmail.com\n");
 	kprintf("%s", harvard_copyright);
 	kprintf("\n");
 
